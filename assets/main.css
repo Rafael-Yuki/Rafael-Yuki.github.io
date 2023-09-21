@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #000;
   text-decoration: none;
 }
 a:visited {
@@ -106,7 +106,7 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-  color: #828282;
+  color: #000;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
@@ -178,7 +178,7 @@ pre > code {
   width: 16px;
   height: 16px;
   display: inline-block;
-  fill: #828282;
+  fill: #000;
   padding-right: 5px;
   vertical-align: text-top;
 }
@@ -321,7 +321,7 @@ table td {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #828282;
+  color: #000;
   margin-left: -15px;
 }
 
@@ -390,7 +390,7 @@ table td {
 
 .post-meta {
   font-size: 14px;
-  color: #828282;
+  color: #000;
 }
 
 .post-link {
