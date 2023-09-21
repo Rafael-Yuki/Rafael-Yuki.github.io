@@ -1,4 +1,3 @@
-```
 # Projeto Jekyll Padrão
 
 Este é um projeto Jekyll padrão hospedado no GitHub Pages.
