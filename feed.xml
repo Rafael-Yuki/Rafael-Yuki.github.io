@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-21T02:00:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aluno - Rafael Yuki Tobaru</title><subtitle>Esta atividade tem como objetivo permitir que apliquem os conceitos de gerência de configuração,  controle de versão, JAMstack e GitHub Actions na criação de um site estático.  Além disso, os irão enfrentar desafios técnicos diversos para aprimorar suas habilidades.</subtitle><entry><title type="html">Os 4 Desafios Escolhidos</title><link href="http://localhost:4000/jekyll/update/2023/09/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Os 4 Desafios Escolhidos" /><published>2023-09-21T01:34:39-03:00</published><updated>2023-09-21T01:34:39-03:00</updated><id>http://localhost:4000/jekyll/update/2023/09/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/09/21/welcome-to-jekyll.html"><![CDATA[<p><strong>Desafios (opcionais - escolha pelo menos 4):</strong></p>
+
+<ol>
+  <li>
+    <p><strong>Desafio de Configuração Inicial do GitHub</strong>: Configure um arquivo de configuração <code class="language-plaintext highlighter-rouge">.gitignore</code> para excluir arquivos desnecessários do repositório.</p>
+  </li>
+  <li><strong>Desafio de Branch Protegida</strong>: Configure a branch principal como protegida, exigindo revisões de código antes de mesclar pull requests.</li>
+  <li><strong>Desafio de Fluxo de Trabalho Customizado</strong>: Crie um fluxo de trabalho personalizado no GitHub Actions para um cenário específico do seu projeto.</li>
+  <li><strong>Desafio de Rebase Interativo</strong>: Pratique o rebase interativo para consolidar e organizar commits.</li>
+  <li><strong>Desafio de Resolução de Conflitos</strong>: Crie um conflito de merge intencionalmente e resolva-o usando as ferramentas do Git.</li>
+  <li><strong>Desafio de Dependências Atualizadas</strong>: Configure um fluxo de trabalho para verificar e atualizar automaticamente as dependências do projeto.</li>
+  <li><strong>Desafio de Revisão de Código</strong>: Crie uma revisão de código simulada para um pull request, fornecendo comentários construtivos.</li>
+  <li><strong>Desafio de Integração com API</strong>: Integre o GitHub Actions com uma API externa, como um serviço de notificação.</li>
+  <li><strong>Desafio de Configuração de Badge</strong>: Adicione um badge de status do GitHub Actions ao seu README.md para mostrar o status do pipeline.</li>
+  <li><strong>Desafio de Integração Contínua Multi-Plataforma</strong>: Configure o pipeline de CI para executar testes em diferentes sistemas operacionais (Linux, Windows, macOS).</li>
+  <li><strong>Desafio de Monitoramento de Pull Requests</strong>: Configure um workflow para analisar automaticamente novos pull requests em busca de problemas.</li>
+  <li><strong>Desafio de Publicação de GitHub Pages</strong>: Configure o pipeline para publicar automaticamente o site estático no GitHub Pages.</li>
+  <li><strong>Desafio de Integração com Chatbot</strong>: Crie um fluxo de trabalho que envie notificações para um chatbot sempre que ocorrerem alterações no repositório.</li>
+  <li><strong>Desafio de Testes de Regressão</strong>: Implemente testes de regressão automatizados para garantir que novas alterações não afetem funcionalidades existentes.</li>
+  <li><strong>Desafio de Validação de Links</strong>: Crie um script que verifique e reporte links quebrados no seu site estático.</li>
+  <li><strong>Desafio de Variáveis de Ambiente</strong>: Utilize variáveis de ambiente no GitHub Actions para armazenar informações sensíveis, como chaves de API.</li>
+  <li><strong>Desafio de Análise de Desempenho</strong>: Utilize ferramentas como Lighthouse para avaliar o desempenho do site e implemente otimizações.</li>
+  <li><strong>Desafio de Segurança</strong>: Realize uma análise de segurança no código e corrija possíveis vulnerabilidades.</li>
+  <li><strong>Desafio de Integração de CDN</strong>: Configure a integração com um serviço de CDN para otimizar a entrega de conteúdo estático.</li>
+  <li><strong>Desafio de Redirecionamento 301</strong>: Implemente redirecionamentos 301 para URLs antigas do seu site, mantendo a compatibilidade.</li>
+  <li><strong>Desafio de Versionamento Semântico</strong>: Implemente um sistema de versionamento semântico para seu projeto e documente as mudanças em releases.</li>
+  <li><strong>Desafio de Ambientes Multi-Estágios</strong>: Configure diferentes ambientes (desenvolvimento, produção etc.) no GitHub Actions.</li>
+  <li><strong>Desafio de Integração com Ferramentas de Revisão de Código</strong>: Integre o GitHub Actions com ferramentas de revisão estática de código, como SonarQube.</li>
+  <li><strong>Desafio de Autenticação com OAuth</strong>: Configure autenticação OAuth para acessar recursos externos no pipeline de CI/CD.</li>
+  <li><strong>Desafio de Integração com Base de Dados</strong>: Crie um fluxo de trabalho que execute testes de integração com uma base de dados.</li>
+</ol>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Desafios (opcionais - escolha pelo menos 4):]]></summary></entry><entry><title type="html">Trabalho Gerência de Configuração e Controle</title><link href="http://localhost:4000/jekyll/update/2023/09/21/Trabalho-Gerencia-de-Configuracao-Controle.html" rel="alternate" type="text/html" title="Trabalho Gerência de Configuração e Controle" /><published>2023-09-21T01:34:39-03:00</published><updated>2023-09-21T01:34:39-03:00</updated><id>http://localhost:4000/jekyll/update/2023/09/21/Trabalho-Gerencia-de-Configuracao-Controle</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/09/21/Trabalho-Gerencia-de-Configuracao-Controle.html"><![CDATA[<p><strong>Atividade de Gerência de Configuração e Controle de Versão: Construção de um Site Estático com JAMstack e GitHub Actions</strong></p>
+
+<p><strong>Objetivo:</strong>
+Esta atividade tem como objetivo permitir que apliquem os conceitos de gerência de configuração, controle de versão, JAMstack e GitHub Actions na criação de um site estático. Além disso, os irão enfrentar desafios técnicos diversos para aprimorar suas habilidades.</p>
+
+<p><strong>Instruções:</strong>
+Nesta atividade, você vai criar um site estático usando a arquitetura JAMstack, configurar um pipeline de integração contínua usando GitHub Actions e enfrentar diversos desafios técnicos. Você também deve criar documentações detalhadas, usar tags e releases para controle de versão e, ao final, ter um site funcional e otimizado.</p>
+
+<p><strong>Passos:</strong></p>
+
+<p><strong>1. Configuração Inicial:</strong>
+   a. Crie um novo repositório no GitHub para o projeto do site estático.</p>
+
+<p>b. Clone o repositório para o seu ambiente de desenvolvimento local.</p>
+
+<p>c. Estabeleça uma estrutura básica do projeto, incluindo páginas HTML, estilos CSS e ativos (imagens, ícones etc.).</p>
+
+<p><strong>2. Implementação do JAMstack:</strong>
+   a. Escolha um gerador de site estático, como Jekyll, Hugo, Gatsby ou Next.js.</p>
+
+<p>b. Desenvolva a estrutura de páginas do seu site, incorporando princípios de reutilização de componentes e templates.</p>
+
+<p><strong>3. GitHub Actions:</strong>
+   a. Configure um workflow no GitHub Actions para automatizar a construção, testes e implantação do site.</p>
+
+<p>b. Configure o workflow para ser executado em pushes para a branch principal e pull requests.</p>
+
+<p>c. Integre ferramentas de verificação de qualidade de código, como ESLint ou Prettier.</p>
+
+<p><strong>4. Documentação:</strong>
+   a. Elabore um README.md detalhado com instruções para clonar o projeto, configurar o ambiente local e executar o projeto.</p>
+
+<p>b. Explique o fluxo de trabalho do GitHub Actions, incluindo como ele constrói, testa e implanta automaticamente o site.</p>
+
+<p><strong>5. Uso de Tags e Releases:</strong>
+   a. Implemente uma versão funcional do seu site, incluindo diferentes páginas e estilos.</p>
+
+<p>b. Crie uma tag para marcar a versão inicial e crie um release no GitHub.</p>
+
+<p><strong>Desafios (opcionais - escolha pelo menos 4):</strong></p>
+<ol>
+  <li><strong>Desafio de Configuração Inicial do GitHub</strong>: Configure um arquivo de configuração <code class="language-plaintext highlighter-rouge">.gitignore</code> para excluir arquivos desnecessários do repositório.</li>
+  <li><strong>Desafio de Branch Protegida</strong>: Configure a branch principal como protegida, exigindo revisões de código antes de mesclar pull requests.</li>
+  <li><strong>Desafio de Fluxo de Trabalho Customizado</strong>: Crie um fluxo de trabalho personalizado no GitHub Actions para um cenário específico do seu projeto.</li>
+  <li><strong>Desafio de Rebase Interativo</strong>: Pratique o rebase interativo para consolidar e organizar commits.</li>
+  <li><strong>Desafio de Resolução de Conflitos</strong>: Crie um conflito de merge intencionalmente e resolva-o usando as ferramentas do Git.</li>
+  <li><strong>Desafio de Dependências Atualizadas</strong>: Configure um fluxo de trabalho para verificar e atualizar automaticamente as dependências do projeto.</li>
+  <li><strong>Desafio de Revisão de Código</strong>: Crie uma revisão de código simulada para um pull request, fornecendo comentários construtivos.</li>
+  <li><strong>Desafio de Integração com API</strong>: Integre o GitHub Actions com uma API externa, como um serviço de notificação.</li>
+  <li><strong>Desafio de Configuração de Badge</strong>: Adicione um badge de status do GitHub Actions ao seu README.md para mostrar o status do pipeline.</li>
+  <li><strong>Desafio de Integração Contínua Multi-Plataforma</strong>: Configure o pipeline de CI para executar testes em diferentes sistemas operacionais (Linux, Windows, macOS).</li>
+  <li><strong>Desafio de Monitoramento de Pull Requests</strong>: Configure um workflow para analisar automaticamente novos pull requests em busca de problemas.</li>
+  <li><strong>Desafio de Publicação de GitHub Pages</strong>: Configure o pipeline para publicar automaticamente o site estático no GitHub Pages.</li>
+  <li><strong>Desafio de Integração com Chatbot</strong>: Crie um fluxo de trabalho que envie notificações para um chatbot sempre que ocorrerem alterações no repositório.</li>
+  <li><strong>Desafio de Testes de Regressão</strong>: Implemente testes de regressão automatizados para garantir que novas alterações não afetem funcionalidades existentes.</li>
+  <li><strong>Desafio de Validação de Links</strong>: Crie um script que verifique e reporte links quebrados no seu site estático.</li>
+  <li><strong>Desafio de Variáveis de Ambiente</strong>: Utilize variáveis de ambiente no GitHub Actions para armazenar informações sensíveis, como chaves de API.</li>
+  <li><strong>Desafio de Análise de Desempenho</strong>: Utilize ferramentas como Lighthouse para avaliar o desempenho do site e implemente otimizações.</li>
+  <li><strong>Desafio de Segurança</strong>: Realize uma análise de segurança no código e corrija possíveis vulnerabilidades.</li>
+  <li><strong>Desafio de Integração de CDN</strong>: Configure a integração com um serviço de CDN para otimizar a entrega de conteúdo estático.</li>
+  <li><strong>Desafio de Redirecionamento 301</strong>: Implemente redirecionamentos 301 para URLs antigas do seu site, mantendo a compatibilidade.</li>
+  <li><strong>Desafio de Versionamento Semântico</strong>: Implemente um sistema de versionamento semântico para seu projeto e documente as mudanças em releases.</li>
+  <li><strong>Desafio de Ambientes Multi-Estágios</strong>: Configure diferentes ambientes (desenvolvimento, produção etc.) no GitHub Actions.</li>
+  <li><strong>Desafio de Integração com Ferramentas de Revisão de Código</strong>: Integre o GitHub Actions com ferramentas de revisão estática de código, como SonarQube.</li>
+  <li><strong>Desafio de Autenticação com OAuth</strong>: Configure autenticação OAuth para acessar recursos externos no pipeline de CI/CD.</li>
+  <li><strong>Desafio de Integração com Base de Dados</strong>: Crie um fluxo de trabalho que execute testes de integração com uma base de dados.</li>
+</ol>
+
+<p><strong>Entrega:</strong></p>
+<ul>
+  <li>O link para o repositório GitHub com o projeto completo.</li>
+  <li>Capturas de tela, imagens ou vídeos demonstrando o funcionamento dos desafios concluídos.</li>
+</ul>
+
+<p><strong>Avaliação:</strong>
+A avaliação será baseada na implementação eficiente dos passos, na resolução bem-sucedida dos desafios escolhidos, na qualidade da documentação e na demonstração de compreensão dos conceitos de gerência de configuração e controle de versão. Cada desafio concluído e bem executado contribuirá para a pontuação total da atividade. Certifique-se de adotar as melhores práticas de desenvolvimento e gerência de configuração.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Atividade de Gerência de Configuração e Controle de Versão: Construção de um Site Estático com JAMstack e GitHub Actions]]></summary></entry></feed>
