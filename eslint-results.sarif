@@ -1,0 +1,83 @@
+{
+  "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "ESLint",
+          "version": "8.10.0",
+          "informationUri": "https://eslint.org",
+          "rules": [
+            {
+              "id": "eslint-rule-1",
+              "name": "Rule 1",
+              "shortDescription": {
+                "text": "This is the first ESLint rule."
+              }
+            },
+            {
+              "id": "eslint-rule-2",
+              "name": "Rule 2",
+              "shortDescription": {
+                "text": "This is the second ESLint rule."
+              }
+            }
+          ]
+        }
+      },
+      "results": [
+        {
+          "ruleId": "eslint-rule-1",
+          "message": {
+            "text": "This is a sample ESLint issue."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "path/to/source/file.js"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 5,
+                  "endLine": 10,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "level": "error",
+          "properties": {
+            "severity": "High"
+          }
+        },
+        {
+          "ruleId": "eslint-rule-2",
+          "message": {
+            "text": "This is another sample ESLint issue."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "path/to/source/file.js"
+                },
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 3,
+                  "endLine": 15,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "level": "warning",
+          "properties": {
+            "severity": "Medium"
+          }
+        }
+      ]
+    }
+  ]
+}
