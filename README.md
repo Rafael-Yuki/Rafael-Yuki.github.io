@@ -76,6 +76,7 @@ Este projeto está sob a licença [MIT](LICENSE).
 ```
 
 Certifique-se de substituir `https://github.com/Rafael-Yuki/Rafael-Yuki.github.io.git` pela URL do seu repositório GitHub, se for diferente. Este README.md fornece informações detalhadas para clonar, configurar o ambiente local, executar o projeto e contribuir para o seu projeto Jekyll padrão no GitHub Pages.
+```
 
 7. Fluxo de trabalho do projeto Jekyll com GitHub Pages, integração do ESLint e CodeQL:
 
