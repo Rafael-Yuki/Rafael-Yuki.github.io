@@ -1,0 +1,23 @@
+# Arquivos e diretórios padrão ignorados para projetos Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+vendor/
+
+# Outros diretórios específicos de ambiente local (opcional)
+.env
+.ruby-version
+
+# Arquivos de configuração de IDEs/Editors (opcional)
+.vscode/
+
+# Arquivos temporários ou de cache (opcional)
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Arquivos de compilação ou build específicos (opcional)
+*.min.js
+*.min.css
